@@ -1,5 +1,4 @@
-AIM
-the goal of this experiment is to get comfortable with the core building blocks of python, specifically handling variables, performing math, taking user input, and using logic to solve simple problems.
+AIMthe goal of this experiment is to get comfortable with the core building blocks of python, specifically handling variables, performing math, taking user input, and using logic to solve simple problems.
 TOOLS
 software: google colab
 language: python 3
