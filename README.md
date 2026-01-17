@@ -25,5 +25,7 @@ formulas: we implemented standard math formulas for circles (area) and rectangle
 calculator logic: we used if-elif-else blocks to let the program "choose" which math operation to run based on what the user types.
 safety checks: we added logic to prevent the program from crashing if a user tries to divide by zero.
 
+
 CONCLUSION
+
 this experiment shows how just a few lines of python can handle complex tasks like grade calculation and geometric mapping. by using smart tools like list comprehensions and f-strings, we made the code both efficient and readable. all the objectives, from simple variables to a functioning calculator, were successfully completed.
