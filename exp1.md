@@ -75,7 +75,7 @@ A web-based interactive tool that allows you to combine live code, equations, an
 
 Google Colab is a cloud-based Python environment provided by Google that allows you to write and execute code in your browser with zero configuration.
 
-### 🚀 Advantages
+###  Advantages
 - **No installation:** Runs entirely in the cloud.
 - **Free Hardware:** Access to free GPUs and TPUs for heavy processing.
 - **Easy Collaboration:** Save
